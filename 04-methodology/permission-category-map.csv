@@ -1,0 +1,23 @@
+permission,data_category,android_level
+android.permission.ACCESS_FINE_LOCATION,Location,dangerous
+android.permission.ACCESS_COARSE_LOCATION,Location,dangerous
+android.permission.ACCESS_BACKGROUND_LOCATION,Location,dangerous
+android.permission.READ_CONTACTS,Contacts,dangerous
+android.permission.WRITE_CONTACTS,Contacts,dangerous
+android.permission.GET_ACCOUNTS,Personal info,dangerous
+android.permission.READ_CALENDAR,Calendar,dangerous
+android.permission.WRITE_CALENDAR,Calendar,dangerous
+android.permission.CAMERA,Photos and videos,dangerous
+android.permission.RECORD_AUDIO,Audio,dangerous
+android.permission.READ_SMS,Messages,dangerous
+android.permission.RECEIVE_SMS,Messages,dangerous
+android.permission.SEND_SMS,Messages,dangerous
+android.permission.READ_CALL_LOG,Call history,dangerous
+android.permission.READ_PHONE_STATE,Device or other IDs,dangerous
+android.permission.READ_EXTERNAL_STORAGE,Files and docs,dangerous
+android.permission.WRITE_EXTERNAL_STORAGE,Files and docs,dangerous
+android.permission.READ_MEDIA_IMAGES,Photos and videos,dangerous
+android.permission.READ_MEDIA_VIDEO,Photos and videos,dangerous
+android.permission.READ_MEDIA_AUDIO,Audio,dangerous
+android.permission.BODY_SENSORS,Health and fitness,dangerous
+android.permission.ACTIVITY_RECOGNITION,Health and fitness,dangerous

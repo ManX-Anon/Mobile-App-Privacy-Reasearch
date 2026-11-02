@@ -1,0 +1,10 @@
+# Never commit these
+03-data/raw/apks/
+03-data/raw/traffic/
+01-literature/papers/
+*.apk
+*.har
+*.flows
+.env
+__pycache__/
+.ipynb_checkpoints/
