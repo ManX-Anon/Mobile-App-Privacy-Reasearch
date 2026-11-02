@@ -1,3 +1,21 @@
 app_id,app_name,package_id,category,version,date_tested,installs_band,play_store_url,privacy_policy_url,notes
-app01,,,,,,,,,
-app02,,,,,,,,,
+app01,"PhonePe: UPI, Payment, Recharge",com.phonepe.app,Finance,,,500M+,https://play.google.com/store/apps/details?id=com.phonepe.app,,"Rank 1 AppTweak India finance May25-Apr26 (both stores); band from 42matters snapshot, verify"
+app02,"Navi: UPI, Payments, Insurance",com.naviapp,Finance,,,,https://play.google.com/store/apps/details?id=com.naviapp,,"Rank 2 AppTweak; package from memory, verify; lending KYC happens after open"
+app03,"Airtel: Recharge, Bank & Loans",com.myairtelapp,Finance,,,,https://play.google.com/store/apps/details?id=com.myairtelapp,,Rank 3 AppTweak; categorised Other business by AppTweak; borderline Finance; check Airtel-number login
+app04,Paytm: Secure UPI Payments,net.one97.paytm,Finance,,,,https://play.google.com/store/apps/details?id=net.one97.paytm,,Rank 4 AppTweak; confirm no KYC wall to reach home screen
+app05,Google Pay: Secure UPI payment,com.google.android.apps.nbu.paisa.user,Finance,,,,https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user,,"Rank 5 AppTweak; pre-installed on many handsets, check OEM exclusion; fallback Bajaj Finserv (#6)"
+app06,Instagram,com.instagram.android,Social,,,5B+,https://play.google.com/store/apps/details?id=com.instagram.android,,"42matters Play India social chart rank 1; snapshot undated, possibly stale"
+app07,Facebook,com.facebook.katana,Social,,,5B+,https://play.google.com/store/apps/details?id=com.facebook.katana,,"42matters rank 2; pre-installed on some handsets, check OEM exclusion"
+app08,Instagram Lite,com.instagram.lite,Social,,,100M+,https://play.google.com/store/apps/details?id=com.instagram.lite,,42matters rank 3; snapshot undated
+app09,Facebook Lite,com.facebook.lite,Social,,,1B+,https://play.google.com/store/apps/details?id=com.facebook.lite,,42matters rank 4; snapshot undated
+app10,Threads,com.instagram.barcelona,Social,,,100M+,https://play.google.com/store/apps/details?id=com.instagram.barcelona,,"42matters rank 5; snapshot undated; package from memory, verify"
+app11,Ludo King,com.ludo.king,Games,,,1B+,https://play.google.com/store/apps/details?id=com.ludo.king,,Rank 1 Sensor Tower Q1 2026 India (via Tech2); band from 42matters
+app12,Free Fire MAX,com.dts.freefiremax,Games,,,500M+,https://play.google.com/store/apps/details?id=com.dts.freefiremax,,Rank 2 Sensor Tower Q1 2026 listed as Free Fire; original Free Fire banned in India so MAX assumed
+app13,Cricket League,,Games,,,,,,"Rank 3 Sensor Tower Q1 2026; Miniclip; package_id not confirmed, look up on Play"
+app14,Pizza Ready!,,Games,,,,,,"Rank 4 Sensor Tower Q1 2026; Supercent; package_id not confirmed, look up on Play"
+app15,Carrom Pool,com.miniclip.carrom,Games,,,,https://play.google.com/store/apps/details?id=com.miniclip.carrom,,"Rank 5 Sensor Tower Q1 2026; Miniclip; package from memory, verify"
+app16,Duolingo: Learn Languages,com.duolingo,Education,,,,https://play.google.com/store/apps/details?id=com.duolingo,https://www.duolingo.com/privacy,Rank 3 AppstoreSpy Play India top-free education chart (Oct 2026); installs band not verified
+app17,Seekho: Short Learning Videos,com.seekho.android,Education,,,,https://play.google.com/store/apps/details?id=com.seekho.android,,Rank 4 AppstoreSpy chart; verify 10M+ and free tier access
+app18,BabyBillion: Kids Learning App,com.babybillion.superapp,Education,,,,https://play.google.com/store/apps/details?id=com.babybillion.superapp,,"Rank 2 AppstoreSpy chart; released Dec 2025, verify 10M+; kids app, check privacy policy"
+app19,English Seekho: Speaking App,com.bolo.android,Education,,,,https://play.google.com/store/apps/details?id=com.bolo.android,,Rank 6 AppstoreSpy chart; verify 10M+ installs
+app20,Supernova AI: Spoken English,live.gosupernova.app,Education,,,,https://play.google.com/store/apps/details?id=live.gosupernova.app,,Rank 5 AppstoreSpy chart; verify 10M+ and any subscription gate
